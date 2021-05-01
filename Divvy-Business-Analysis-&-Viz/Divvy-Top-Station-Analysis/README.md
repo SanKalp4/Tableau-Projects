@@ -12,11 +12,11 @@ The data is split into two tables.
 
 ```Station's Table``` consisting of
 
-> * ```id```: ID attached to each station.
-> * ```name```: Station's Name
-> * ```latitude```: Station latitude
-> * ```longitude```: Station longitude
-> * ```docks```:number of docks at the station
+>* ```id```: ID attached to each station.
+>* ```name```: Station's Name
+>* ```latitude```: Station latitude
+>* ```longitude```: Station longitude
+>* ```docks```:number of docks at the station
 
 
 
