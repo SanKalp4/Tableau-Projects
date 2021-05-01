@@ -1,6 +1,6 @@
 # Tableau-Projects
 
-1. [Divvy Business Analysis Viz](https://github.com/SanKalp4/Tableau-Projects/blob/main/Divvy-Business-Analysis-%26-Viz)
+1. [Divvy Business Analysis Visualisation](https://github.com/SanKalp4/Tableau-Projects/blob/main/Divvy-Business-Analysis-%26-Viz)
    - [Divvy Rider and Business Analysis Story](https://github.com/SanKalp4/Tableau-Projects/blob/main/Divvy-Business-Analysis-%26-Viz/Divvy%20Rider%20Analysis%20Viz/RIDERME.md)
    - [Divvy Top Stations Analysis Dashboard](https://github.com/SanKalp4/Tableau-Projects/blob/main/Divvy-Business-Analysis-%26-Viz/Divvy-Top-Station-Analysis/README.md)
 
