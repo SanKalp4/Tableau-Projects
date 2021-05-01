@@ -39,7 +39,10 @@ The data is split into two tables.
 ```Seasons```: Spring, Summer , Winter( omitted others as data is of Q1 and Q2)
 ```Time Block```: Morning, Afternoon , Evening and Night.
 
-An interactive dashboard has been made with filters ```usertype```, ```Time Block``` and ```Seasons``` showing no.of trips across user type, a geoviz station map with no. of trips per station, station ranking bar chart and Trip variation chart with time.
+* An interactive dashboard has been made with filters ```usertype```, ```Time Block``` and ```Seasons``` showing no.of trips across user type, a geoviz station map with no. of trips per station, station ranking bar chart and Trip variation chart with time.
+* This visualisation can help Divvy optimise its service at its top busiest stations and docks, improve inventory management and avoid congestion and traffic; run seasonal promotional activities, advertisement across different seasons and timeblock.
+
+
 
 [Link to Project](https://public.tableau.com/profile/sankalp4#!/vizhome/1_8_filters_16195161821810/TopStationsActivityDashboard)
 
