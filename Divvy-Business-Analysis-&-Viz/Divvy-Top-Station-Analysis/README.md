@@ -34,7 +34,7 @@ The data is split into two tables.
 >* ```birth year```: birth year of rider
 >* ```gender```: gender of rider
 
-2 ```Calculated Field``` has been made here.
+Two ```Calculated Field``` has been made here.
 
 ```Seasons```: Spring, Summer , Winter( omitted others as data is of Q1 and Q2)
 ```Time Block```: Morning, Afternoon , Evening and Night.
