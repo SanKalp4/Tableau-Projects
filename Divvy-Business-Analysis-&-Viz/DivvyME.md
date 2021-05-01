@@ -1,3 +1,4 @@
+![Divvy Site](https://user-images.githubusercontent.com/75038775/116788524-b19cf700-aac7-11eb-9fe0-32df53f5bb3e.jpg)
 ## About Divvy
 
 Divvy is Chicago's Bike Sharing System. With the city of Chicago Divvy publishes historical data about trips and makes it available for public use.
