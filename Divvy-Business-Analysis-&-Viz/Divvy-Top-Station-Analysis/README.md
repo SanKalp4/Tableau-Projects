@@ -41,7 +41,7 @@ The data is split into two tables.
 
 An interactive dashboard has been made with filters ```usertype```, ```Time Block``` and ```Seasons``` showing no.of trips across user type, a geoviz station map with no. of trips per station, station ranking bar chart and Trip variation chart with time.
 
-[Link to Project]((https://public.tableau.com/profile/sankalp4#!/vizhome/1_8_filters_16195161821810/TopStationsActivityDashboard)
+[Link to Project](https://public.tableau.com/profile/sankalp4#!/vizhome/1_8_filters_16195161821810/TopStationsActivityDashboard)
 
 
 
