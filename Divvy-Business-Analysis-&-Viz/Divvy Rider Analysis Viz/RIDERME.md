@@ -34,7 +34,7 @@ The data is split into two tables.
 >* ```birth year```: birth year of rider
 >* ```gender```: gender of rider
 
-###The Story
+### The Story
 ![Divvy Rider Business Analysis](https://user-images.githubusercontent.com/75038775/116785676-7515cf00-aab8-11eb-8c8f-9b9ac636691b.jpg)
 
 * A interactive KPI story to understand the rider activity has been done to see the variation of tripduration , trip count in a day across the week with different user type. 
