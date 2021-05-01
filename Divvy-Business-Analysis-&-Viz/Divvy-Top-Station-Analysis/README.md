@@ -34,6 +34,12 @@ The data is split into two tables.
 >* ```birth year```: birth year of rider
 >* ```gender```: gender of rider
 
+### The Dashboard
+
+![Divvy Top Station Analysis](https://user-images.githubusercontent.com/75038775/116786338-b491ea80-aabb-11eb-8449-4994a34f2dd4.jpg)
+
+
+
 Two ```Calculated Field``` has been made here.
 
 ```Seasons```: Spring, Summer , Winter( omitted others as data is of Q1 and Q2)
@@ -45,8 +51,3 @@ Two ```Calculated Field``` has been made here.
 
 
 [Link to Project](https://public.tableau.com/profile/sankalp4#!/vizhome/1_8_filters_16195161821810/TopStationsActivityDashboard)
-
-
-
-
-
