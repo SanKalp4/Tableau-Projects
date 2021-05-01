@@ -4,8 +4,6 @@
 * ### Dataset and Objective: 
 > The dataset contains details of 1470 employees of a certain company with ```Attrition``` as its independent variable. The objective is the find insights on why the company is having a considerable amount of attrition and what measures can be taken to minimise the attrition rate.
 
-* Dependent Variables
-
 ```Age```		
 ```BusinessTravel```	
 ```DailyRate```	
@@ -41,8 +39,7 @@
 ```YearsSinceLastPromotion```	
 ```YearsWithCurrManager```
 
-* Independent Variable
- ```Attrition```
+* ```Attrition```
 
 ![HR Ananlytics Tableau](https://user-images.githubusercontent.com/75038775/116786733-e99f3c80-aabd-11eb-810b-7d49f145175b.jpg)
 
