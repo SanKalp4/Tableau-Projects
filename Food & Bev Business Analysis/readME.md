@@ -1,1 +1,1 @@
-Hello
+A business analysis case study from one of the leading analytics company in India. Given a fictitious company's and its customer's F&B data the goal is to analyze spends,map opportunities and prospects and curate a plan for market share expansion.
