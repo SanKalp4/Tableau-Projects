@@ -9,8 +9,7 @@ Tableau Dashboard
 
 ![Screenshot (54)](https://user-images.githubusercontent.com/75038775/123622996-967e0780-d82a-11eb-9cf3-732c569c22a3.png)
 
-Brief Insights in ppt
-[Presentation](https://github.com/SanKalp4/Tableau-Projects/blob/main/Food%20%26%20Bev%20Business%20Analysis/Presentation/T%23%23%23r%20Analytics%20Business%20Case%20Study%20presentation.pdf)
+Brief Insights in [Presentation](https://github.com/SanKalp4/Tableau-Projects/blob/main/Food%20%26%20Bev%20Business%20Analysis/Presentation/T%23%23%23r%20Analytics%20Business%20Case%20Study%20presentation.pdf)
 
 
 [Link to Dashboard](https://public.tableau.com/app/profile/sankalp4/viz/FBBusinessAnalysis/Dashboard1)
