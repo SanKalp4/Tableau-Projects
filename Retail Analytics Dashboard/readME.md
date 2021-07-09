@@ -1,0 +1,1 @@
+This is a retail dataset (3 csv file Features.csv, Sales.csv & stores.csv collective) on which insights needs to be driven analyzing the data. A business case study from a prominent analytics organisation of India.
