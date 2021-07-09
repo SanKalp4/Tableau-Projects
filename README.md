@@ -12,4 +12,6 @@
 
 3. [Food & Beverage Business Analysis](https://github.com/SanKalp4/Tableau-Projects/tree/main/Food%20%26%20Bev%20Business%20Analysis)
 
+<p align="left"> <img src="https://user-images.githubusercontent.com/75038775/123622996-967e0780-d82a-11eb-9cf3-732c569c22a3.png" height="350"> </p>
+   
 4. [Retail Analytics Dashboard](https://github.com/SanKalp4/Tableau-Projects/tree/main/Retail%20Analytics%20Dashboard)
