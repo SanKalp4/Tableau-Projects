@@ -10,13 +10,12 @@ Project/ Business Case study Assessment made on:
 - Data preparation quality and the process.
 
 
-Calculated fields Temperature(Celsius), Seasons, Weekday or weekend was made.
+Calculated fields Temperature(Celsius), Seasons, Weekday or weekend was formulated.
 
 
 
 ![Screenshot (55)](https://user-images.githubusercontent.com/75038775/125103435-f8c3eb80-e0f9-11eb-99b2-1beadc39c631.png)
 
-Calculated fields Temperature(Celsius), Seasons, Weekday or weekend was made.
 
 Some Insights:
 
