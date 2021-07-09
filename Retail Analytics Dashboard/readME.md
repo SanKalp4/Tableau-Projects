@@ -11,7 +11,8 @@ Data preparation quality and the process
 
 ![Screenshot (55)](https://user-images.githubusercontent.com/75038775/125103435-f8c3eb80-e0f9-11eb-99b2-1beadc39c631.png)
 
-Some Insights: 
+Some Insights:
+
 1.Weekly average sales peaks in the month of Nov-Dec . 
 
 2.Unemployment has decreased from 8.619 to 6.954 steadily in years. No substantial correlation with sales found. 
