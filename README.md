@@ -7,3 +7,5 @@
 2. [Attrition Analysis Visualisation Dashboard](https://github.com/SanKalp4/Tableau-Projects/blob/main/Attrition%20Analysis%20HR%20Dashboard/HIREME.md)
 
 3. [Food & Beverage Business Analysis](https://github.com/SanKalp4/Tableau-Projects/tree/main/Food%20%26%20Bev%20Business%20Analysis)
+
+4. [Retail Analytics Dashboard](https://github.com/SanKalp4/Tableau-Projects/tree/main/Retail%20Analytics%20Dashboard)
