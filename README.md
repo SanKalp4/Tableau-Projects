@@ -8,7 +8,7 @@
 
 2. [Attrition Analysis Visualisation Dashboard](https://github.com/SanKalp4/Tableau-Projects/blob/main/Attrition%20Analysis%20HR%20Dashboard/HIREME.md)
 
-<p align="left"> <img src="https://user-images.githubusercontent.com/75038775/116786733-e99f3c80-aabd-11eb-810b-7d49f145175b.jpg" height="350" width="630"> </p>
+<p align="left"> <img src="https://user-images.githubusercontent.com/75038775/116786733-e99f3c80-aabd-11eb-810b-7d49f145175b.jpg" height="350" width="620"> </p>
 
 3. [Food & Beverage Business Analysis](https://github.com/SanKalp4/Tableau-Projects/tree/main/Food%20%26%20Bev%20Business%20Analysis)
 
