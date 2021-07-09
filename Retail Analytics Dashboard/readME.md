@@ -13,10 +13,15 @@ Data preparation quality and the process
 
 Some Insights: 
 1.Weekly average sales peaks in the month of Nov-Dec . 
+
 2.Unemployment has decreased from 8.619 to 6.954 steadily in years. No substantial correlation with sales found. 
+
 3.Hghest fuel price reached at 3.998 $ but no conclusive evidence on impact in sales. 
+
 4.Markdown 3 most impactful probable peak due to Thanksgiving day promotion. Markdown 2 peak for Christmas special promotion.
+
 5. Dept 92 followed by 96 & 38 contributes to highest sales across different types of stores.
+
 6. No significant YoY growth which needs to be addressed.
 
 [Link to Dashboard](https://public.tableau.com/app/profile/sankalp4/viz/RetailAnalyticsDash/Dashboard1)
