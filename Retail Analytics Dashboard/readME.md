@@ -7,7 +7,12 @@ Project/ Business Case study Assessment made on:
 - Overall Insights and findings from data.
 - Choice of visualization/graph in putting forward the points
 - Overall understanding of the data used.
-- Data preparation quality and the process
+- Data preparation quality and the process.
+
+
+Calculated fields Temperature(Celsius), Seasons, Weekday or weekend was made.
+
+
 
 ![Screenshot (55)](https://user-images.githubusercontent.com/75038775/125103435-f8c3eb80-e0f9-11eb-99b2-1beadc39c631.png)
 
