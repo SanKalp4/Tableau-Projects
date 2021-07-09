@@ -4,6 +4,8 @@
    - [Divvy Rider and Business Analysis Story](https://github.com/SanKalp4/Tableau-Projects/blob/main/Divvy-Business-Analysis-%26-Viz/Divvy%20Rider%20Analysis%20Viz/RIDERME.md)
    - [Divvy Top Stations Analysis Dashboard](https://github.com/SanKalp4/Tableau-Projects/blob/main/Divvy-Business-Analysis-%26-Viz/Divvy-Top-Station-Analysis/README.md)
 
+![Visualisation](https://user-images.githubusercontent.com/75038775/116785676-7515cf00-aab8-11eb-8c8f-9b9ac636691b.jpg)
+
 2. [Attrition Analysis Visualisation Dashboard](https://github.com/SanKalp4/Tableau-Projects/blob/main/Attrition%20Analysis%20HR%20Dashboard/HIREME.md)
 
 3. [Food & Beverage Business Analysis](https://github.com/SanKalp4/Tableau-Projects/tree/main/Food%20%26%20Bev%20Business%20Analysis)
