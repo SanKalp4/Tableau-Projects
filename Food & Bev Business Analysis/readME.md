@@ -2,4 +2,12 @@ A business analysis case study from one of the leading analytics company in Indi
 
 [Link to Dashboard](https://public.tableau.com/app/profile/sankalp4/viz/FBBusinessAnalysis/Dashboard1)
 
+![image](https://user-images.githubusercontent.com/75038775/125104818-6b819680-e0fb-11eb-82fa-7d0ac06df89e.png)
+
+
+Tableau Dashboard
+
 ![Screenshot (54)](https://user-images.githubusercontent.com/75038775/123622996-967e0780-d82a-11eb-9cf3-732c569c22a3.png)
+
+
+[Link to Dashboard](https://public.tableau.com/app/profile/sankalp4/viz/FBBusinessAnalysis/Dashboard1)
